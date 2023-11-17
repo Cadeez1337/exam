@@ -1,0 +1,10 @@
+H:\exam\exam\bin\Debug\exam.exe.config
+H:\exam\exam\bin\Debug\exam.exe
+H:\exam\exam\bin\Debug\exam.pdb
+H:\exam\exam\obj\Debug\exam.LoginForm.resources
+H:\exam\exam\obj\Debug\exam.MainForm.resources
+H:\exam\exam\obj\Debug\exam.Properties.Resources.resources
+H:\exam\exam\obj\Debug\Спорт.csproj.GenerateResource.cache
+H:\exam\exam\obj\Debug\Спорт.csproj.CoreCompileInputs.cache
+H:\exam\exam\obj\Debug\exam.exe
+H:\exam\exam\obj\Debug\exam.pdb
